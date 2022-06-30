@@ -1,0 +1,6 @@
+logs/
+build/
+config/
+index.html
+ngrok.exe
+.idea/
